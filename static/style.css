@@ -1,0 +1,39 @@
+:root {
+    /* Setup root variables */
+    --media-sm: 600px;
+    --media-md: 960px;
+    --media-lg: 1280px;
+  
+    /* font-style */
+    --h1-text-size: 2em;
+    --h2-text-size: 1.5em;
+    --h3-text-size: 1.17em;
+    --h4-text-size: 1em;
+    --p-text-size: 1em;
+  
+    /* colors */
+    --primary-color: #157EBF;
+    --secondary-color: #F2E41D;
+    --tertairy: #F2AB27;
+    --grey: #A6A6A6;
+    --dark: #0D0D0D;
+    --light: #fff;
+    --accent: #D9831A;
+    --accent-dark: #F2220F;
+
+  
+  
+    /* radius */
+    --full-radius: 100%;
+    --mid-radius: 20%;
+  
+  
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  
